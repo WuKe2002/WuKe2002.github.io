@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Ke Wu"
-description              : "Thanks for your attention. I am currently a Master of Science in  Nanjing University of Science and Technology, and advised by Prof. Jinshan Pan.
-		My research interest includes image/video restoration and enhancement."
+description              : ""
 repository               : "WuKe2002/WuKe2002.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "kewu2002@njust.edu.cn"
+  email            : "wuke2002@njust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
